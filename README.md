@@ -5,7 +5,7 @@
 
 # Visual Studio 2019
 1. Create a new solution (**File** -> **New** -> **Create New Project**)
-2. Change **All Languages** -> **C++** and **All Platforms** -> **Windows**
+2. Change **All Languages** -> **C++** and **All Platforms** -> **Windows** -> **Dynamic-Link Library (DLL)**
 3. Under **Project name** name it **HelloWorldXll**
 4. In the **Solution Explorer**, right click the **HelloWorldXll** and select **Properties**.
 5. On to top of this screen **Configuration: All Configurations**, **Platform: x64**
