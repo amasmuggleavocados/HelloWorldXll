@@ -15,7 +15,7 @@
 7. Under **Linker** -> **Input**
 	* Click **Additional Dependancies** then the dropdown arrow, then **Edit**
 	    * Add the following text, **C:\2013 Office System Developer Resources\Excel2013XLLSDK\LIB\x64\XLCALL32.LIB**
-8. In **pch.h**, add the following lines at the end of the file:
+8. In **pch.h**, add the following lines:
 	* Earlier versions of Visual Studio (<= 2017) this file was named **stdafx.h**
     * If you are having issues including **XLCALL.H**, try changing your Build (DEBUG vs RELEASE)
 
